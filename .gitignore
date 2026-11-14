@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+LaGeoMaga_Etapa8_Salidas/
+LaGeoMaga_Etapa8_DEMO_Salidas/
+LaGeoMaga_Etapa8_cache/
+LaGeoMaga_Etapa8_DEMO_cache/
+
+*.zip
+*.parquet
+*.png
